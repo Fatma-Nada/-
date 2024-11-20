@@ -4,4 +4,4 @@
 
 ملف المشروع علي Figma كامل وكل ما يخص المشروع وتفاصيله https://www.figma.com/design/VPu0U7megkzR2EwAGBnhH5/Final-project?node-id=0-1&node-type=canvas&t=r2Ot4WnBhNtzmbTz-0
 
-وملف العرض للمشروع  behance من خلال https://www.behance.net/gallery/210807741/_  
+والعرض للمشروع علي behance من خلال https://www.behance.net/gallery/210807741/_  
